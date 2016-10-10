@@ -1,0 +1,4 @@
+com\ryx\server\bean\User.class
+com\ryx\server\Client.class
+com\ryx\server\Msg\Result.class
+com\ryx\server\service\UserService.class
