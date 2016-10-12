@@ -7,7 +7,7 @@ import com.ryx.server.bean.User;
  * Created by ryx on 2016/10/10.
  */
 public interface UserService {
-    Result insert(User user);
-    Result query(String id);
-    Result delete(String id);
+    String insert(User user);
+    String query(String id);
+    String delete(String id);
 }
